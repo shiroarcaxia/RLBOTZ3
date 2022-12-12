@@ -59,7 +59,7 @@ global.ppulsa = '087753812675' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/RullZy' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285867238794' //Nomor Bot
+global.nomorbot = 4' //Nomor Bot
 global.nomorown = '6287753812675' //Nomor Owner
 global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏' //Nama Bot
 global.nameown = 'KhrlMstfa' // Nama Owner
